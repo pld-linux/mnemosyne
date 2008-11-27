@@ -1,13 +1,13 @@
 Summary:	SuperMemo(tm)-like program 
 Summary(pl.UTF-8):	Program podobny do SuperMemo
 Name:		mnemosyne
-Version:	1.1.1
+Version:	1.2
 Release:	0.1
 License:	GPL v2
 Group:		Applications
-Source0:	http://dl.sourceforge.net/mnemosyne-proj/%{name}-%{version}-r1.tgz
-# Source0-md5:	2c08f6b0465f3280fcd2b17960b797bc
-URL:		http://www.mnemosyne-proj.org/
+Source0:	http://dl.sourceforge.net/mnemosyne-proj/%{name}-%{version}.tgz
+# Source0-md5:	2cc1ebd25aacb5a42f70c16ff2d43f1c
+URL:		http://mnemosyne-proj.org/
 BuildRequires:	python-PyQt
 BuildRequires:	python-pygame
 BuildRequires:	rpm-pythonprov
